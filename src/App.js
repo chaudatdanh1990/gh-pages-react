@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       {/* Navigation */}
       <nav className="navbar">
-        <div className="nav-brand">Your Name</div>
+        <div className="nav-brand">CHAU DAT DANH</div>
         <ul className="nav-links">
           <li><a href="#home">Home</a></li>
           <li><a href="#about">About</a></li>
@@ -67,8 +67,8 @@ function App() {
           <p>Feel free to reach out to me for collaborations or opportunities!</p>
           <div className="social-links">
             {/* Add your social media links */}
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="www.linkedin.com/in/danh-chau-053860355" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="/" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </div>
       </section>
